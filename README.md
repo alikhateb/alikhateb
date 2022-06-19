@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
   ### Hi folks! 👋
-  - 🔭 I’m .net web Developer
+  - 🔭 I’m .net web developer
   - 👨‍💻 All of my projects are available **[Here](https://github.com/AlliElkhateb?tab=repositories)**
   - 💬 Ask me about **ASP.Net**
   - 📫 How to reach me **allielkhateb@gmail.com**
