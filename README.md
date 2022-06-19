@@ -1,7 +1,5 @@
 <!-- ### Hi there 👋 -->
   ### Hi folks! 👋
-  ### Iam Ali Elkhateb a Full Stack Web Developer
-
   - 🔭 I’m .net web Developer
   - 👨‍💻 All of my projects are available **[Here](https://github.com/AlliElkhateb?tab=repositories)**
   - 💬 Ask me about **ASP.Net**
