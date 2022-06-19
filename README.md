@@ -6,9 +6,7 @@
   - 👨‍💻 All of my projects are available **[Here](https://github.com/AlliElkhateb?tab=repositories)**
   - 💬 Ask me about **ASP.Net**
   - 📫 How to reach me **allielkhateb@gmail.com**
-  -
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="15" height="15" />
-  My Linkedin **[Here](https://www.linkedin.com/in/ali-elkhateb-b16281234/)**
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="15" height="15" /> My Linkedin **[Here](https://www.linkedin.com/in/ali-elkhateb-b16281234/)**
 
   <h4>Frontend Stack</h4>
   <div>
