@@ -3,7 +3,7 @@
   - 🔭 I’m .net web developer
   - 👨‍💻 All of my projects are available **[Here](https://github.com/AlliElkhateb?tab=repositories)**
   - 💬 Ask me about **ASP.Net**
-  - 📫 How to reach me **allielkhateb@gmail.com**
+  - 📫 How to reach me **alikhateb1995@gmail.com**
   - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="15" height="15" /> My Linkedin **[Here](https://www.linkedin.com/in/ali-elkhateb-b16281234/)**
 
   <h3>Frontend Stack</h3>
